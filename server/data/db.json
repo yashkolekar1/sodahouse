@@ -1,0 +1,720 @@
+{
+  "products": [
+    {
+      "id": "blue-curacao",
+      "name": "Blue Curacao",
+      "image": "/images/drinks/drink_berry.png",
+      "category": "Mocktail Refreshers",
+      "badge": "Bestseller",
+      "color": "#00B4D8",
+      "accent": "#90E0EF",
+      "flavorNotes": "Tangy Caribbean citrus, sweet orange peel finish, vibrant oceanic hue",
+      "pairings": [
+        "Sprite / Club Soda",
+        "Lemon Slice",
+        "Mint Leaves"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": false,
+      "popularity": 98,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 28
+    },
+    {
+      "id": "mojito-original",
+      "name": "Cuban Mint Mojito",
+      "image": "/images/drinks/drink_mint.png",
+      "category": "Mocktail Refreshers",
+      "badge": "Trending",
+      "color": "#2EC4B6",
+      "accent": "#CBF3F0",
+      "flavorNotes": "Crisp spearmint, zesty key lime, ultra-refreshing fizzy burst",
+      "pairings": [
+        "Crushed Ice",
+        "Muddled Mint",
+        "Chilled Soda"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": true,
+      "popularity": 97,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 27
+    },
+    {
+      "id": "pina-colada",
+      "name": "Pina Colada",
+      "image": "/images/drinks/drink_gold.png",
+      "category": "Mocktail Refreshers",
+      "badge": "Tropical",
+      "color": "#F6BD60",
+      "accent": "#FDF0D5",
+      "flavorNotes": "Creamy tropical coconut cream blended with ripe golden pineapple",
+      "pairings": [
+        "Coconut Flakes",
+        "Pineapple Wedge",
+        "Mild Fizz"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": false,
+      "popularity": 92,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 26
+    },
+    {
+      "id": "mint-original",
+      "name": "Mint Original",
+      "image": "/images/drinks/drink_mint.png",
+      "category": "Herbal & Fresh",
+      "badge": "Classic",
+      "color": "#52B788",
+      "accent": "#D8F3DC",
+      "flavorNotes": "Pure garden mint extract with cooling botanical undertones",
+      "pairings": [
+        "Rock Salt",
+        "Ice Cubes",
+        "Lemon Spritz"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": true,
+      "popularity": 91,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 25
+    },
+    {
+      "id": "super-cola",
+      "name": "Super Cola",
+      "image": "/images/drinks/drink_cola.png",
+      "category": "Desi Masala",
+      "badge": "Signature",
+      "color": "#4A1E16",
+      "accent": "#E29578",
+      "flavorNotes": "Old-school cola spice kick infused with cinnamon, nutmeg and punchy fizz",
+      "pairings": [
+        "Kala Namak",
+        "Fresh Lemon",
+        "Extra Fizz"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": false,
+      "popularity": 99,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 24
+    },
+    {
+      "id": "kokum",
+      "name": "Kokum Splash",
+      "image": "/images/drinks/drink_jeera.png",
+      "category": "Desi Masala",
+      "badge": "Gut Health",
+      "color": "#800F2F",
+      "accent": "#FFCCD5",
+      "flavorNotes": "Authentic Konkani wild mangosteen extract, sweet-tart & naturally digestive",
+      "pairings": [
+        "Roasted Cumin",
+        "Pink Salt",
+        "Chilled Soda"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": true,
+      "popularity": 96,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 23
+    },
+    {
+      "id": "lemon",
+      "name": "Classic Lemon",
+      "image": "/images/drinks/drink_lemon.png",
+      "category": "Citrus Kick",
+      "badge": "All-Time Fav",
+      "color": "#FEE440",
+      "accent": "#FFF3B0",
+      "flavorNotes": "Sun-drenched Kagzi lemon zest with refreshing citrus aroma",
+      "pairings": [
+        "Mint Sprig",
+        "Crushed Ice",
+        "Black Pepper"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": false,
+      "popularity": 94,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 22
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi Zing",
+      "image": "/images/drinks/drink_mint.png",
+      "category": "Fruit Fusion",
+      "badge": "Exotic",
+      "color": "#588157",
+      "accent": "#DAD7CD",
+      "flavorNotes": "Vibrant New Zealand kiwi pulp with mild tangy seeds sensation",
+      "pairings": [
+        "Soda Fizz",
+        "Lime Wedge",
+        "Chia Seeds"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": true,
+      "popularity": 89,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 21
+    },
+    {
+      "id": "watermelon",
+      "name": "Watermelon Rush",
+      "image": "/images/drinks/drink_berry.png",
+      "category": "Fruit Fusion",
+      "badge": "Summer Hit",
+      "color": "#FF5964",
+      "accent": "#FFE5D9",
+      "flavorNotes": "Luscious ruby melon juice, naturally hydrating and aromatic",
+      "pairings": [
+        "Fresh Basil",
+        "Himalayan Salt",
+        "High Carbonation"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": false,
+      "popularity": 95,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 20
+    },
+    {
+      "id": "rose",
+      "name": "Royal Rose",
+      "image": "/images/drinks/drink_berry.png",
+      "category": "Herbal & Fresh",
+      "badge": "Heritage",
+      "color": "#C9184A",
+      "accent": "#FFB3C1",
+      "flavorNotes": "Damascene rose petals distillation, floral aroma with royal sweetness",
+      "pairings": [
+        "Sweet Basil Seeds",
+        "Chilled Soda",
+        "Silver Leaf"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": false,
+      "popularity": 90,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 19
+    },
+    {
+      "id": "blueberry",
+      "name": "Wild Blueberry",
+      "image": "/images/drinks/drink_berry.png",
+      "category": "Fruit Fusion",
+      "badge": "Antioxidant",
+      "color": "#3A0CA3",
+      "accent": "#B5179E",
+      "flavorNotes": "Rich berry tartness balanced by smooth sweet berry notes",
+      "pairings": [
+        "Lemon Juice",
+        "Ice Gola Dip",
+        "Soda"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": true,
+      "popularity": 93,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 18
+    },
+    {
+      "id": "pineapple",
+      "name": "Juicy Pineapple",
+      "image": "/images/drinks/drink_gold.png",
+      "category": "Fruit Fusion",
+      "badge": "Tropical",
+      "color": "#F4A261",
+      "accent": "#FFE8D6",
+      "flavorNotes": "Queen pineapple nectar, intense tropical sweetness with tangy bite",
+      "pairings": [
+        "Mint",
+        "Soda",
+        "Chat Masala"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": false,
+      "popularity": 88,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 17
+    },
+    {
+      "id": "orange",
+      "name": "Nagpur Orange",
+      "image": "/images/drinks/drink_orange.png",
+      "category": "Citrus Kick",
+      "badge": "Fresh Pulp",
+      "color": "#F77F00",
+      "accent": "#FDE2B3",
+      "flavorNotes": "Zesty Indian Mandarin orange with fragrant peel oil essence",
+      "pairings": [
+        "Kala Namak",
+        "Ice Soda",
+        "Orange Slice"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": false,
+      "popularity": 93,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 28
+    },
+    {
+      "id": "mango",
+      "name": "Alphonso Mango",
+      "image": "/images/drinks/drink_orange.png",
+      "category": "Fruit Fusion",
+      "badge": "King of Fruits",
+      "color": "#FFB703",
+      "accent": "#FFF1C5",
+      "flavorNotes": "Pure Ratnagiri Alphonso mango richness in sparkling effervescence",
+      "pairings": [
+        "Chili Salt Rim",
+        "Soda",
+        "Ice Gola"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": false,
+      "popularity": 98,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 27
+    },
+    {
+      "id": "guava-green",
+      "name": "Guava Green Masala",
+      "image": "/images/drinks/drink_mint.png",
+      "category": "Desi Masala",
+      "badge": "Street Style",
+      "color": "#70E000",
+      "accent": "#D8F3DC",
+      "flavorNotes": "Crisp raw green guava with a sprinkle of spicy red chili and rock salt",
+      "pairings": [
+        "Red Chili Rim",
+        "Chaat Masala",
+        "Chilled Soda"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": true,
+      "popularity": 97,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 26
+    },
+    {
+      "id": "kalakhatta",
+      "name": "Desi Kalakhatta",
+      "image": "/images/drinks/drink_cola.png",
+      "category": "Desi Masala",
+      "badge": "Crowd Favorite",
+      "color": "#3F0071",
+      "accent": "#D1C4E9",
+      "flavorNotes": "Nostalgic blackberry, tangy pomegranate, cumin, black salt and citric burst",
+      "pairings": [
+        "Ice-Gola Shavings",
+        "Rock Salt",
+        "Soda"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": false,
+      "popularity": 100,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 25
+    },
+    {
+      "id": "rooh-afza",
+      "name": "Rooh Afza Botanical",
+      "image": "/images/drinks/drink_berry.png",
+      "category": "Herbal & Fresh",
+      "badge": "Legendary",
+      "color": "#A01A58",
+      "accent": "#FCE4EC",
+      "flavorNotes": "Timeless cooling botanical blend of herbs, fruits, and fragrant floral essences",
+      "pairings": [
+        "Lime",
+        "Sabja Seeds",
+        "Fizzy Water"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": true,
+      "popularity": 94,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 24
+    },
+    {
+      "id": "berry-blast",
+      "name": "Berry Blast Trio",
+      "image": "/images/drinks/drink_berry.png",
+      "category": "Fruit Fusion",
+      "badge": "Super Fruity",
+      "color": "#8338EC",
+      "accent": "#E8D7FF",
+      "flavorNotes": "Fusion of strawberries, raspberries, and blackberries with fizzy excitement",
+      "pairings": [
+        "Lemon Wedges",
+        "Crushed Ice",
+        "Prebiotic Tonic"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": true,
+      "popularity": 95,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 23
+    },
+    {
+      "id": "jeera-masala",
+      "name": "Jeera Masala Soda",
+      "image": "/images/drinks/drink_jeera.png",
+      "category": "Desi Masala",
+      "badge": "Digestive Wonder",
+      "color": "#7F4F24",
+      "accent": "#EDE0D4",
+      "flavorNotes": "Toasted cumin seeds, asafoetida, rock salt, and bold Indian digestive spices",
+      "pairings": [
+        "Heavy Soda Fizz",
+        "Black Salt",
+        "Lemon Drop"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": true,
+      "popularity": 99,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 22
+    },
+    {
+      "id": "bubble-gum",
+      "name": "Retro Bubble Gum",
+      "image": "/images/drinks/drink_berry.png",
+      "category": "Kids & Fun",
+      "badge": "Fun & Sweet",
+      "color": "#FF006E",
+      "accent": "#FFD1DC",
+      "flavorNotes": "Y2K nostalgia bubblegum scent and candy sweetness that pops on the tongue",
+      "pairings": [
+        "Rainbow Sprinkles",
+        "Ice Soda",
+        "Ice-Gola"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": false,
+      "popularity": 88,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 21
+    },
+    {
+      "id": "falsa",
+      "name": "Desi Falsa Berry",
+      "image": "/images/drinks/drink_cola.png",
+      "category": "Desi Masala",
+      "badge": "Seasonal Gem",
+      "color": "#47126B",
+      "accent": "#DEC9E9",
+      "flavorNotes": "Tart wild Indian sherbet berries with mineral pink salt and cumin twist",
+      "pairings": [
+        "Crushed Ice",
+        "Kala Namak",
+        "Club Soda"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": true,
+      "popularity": 92,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 20
+    },
+    {
+      "id": "guava-pink",
+      "name": "Ripe Guava Pink",
+      "image": "/images/drinks/drink_berry.png",
+      "category": "Fruit Fusion",
+      "badge": "Creamy Fruit",
+      "color": "#FF758F",
+      "accent": "#FFE5EC",
+      "flavorNotes": "Sun-ripened pink guava puree flavor, silky sweet with mild tartness",
+      "pairings": [
+        "Lime Squeeze",
+        "Chaat Masala",
+        "Chilled Soda"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": false,
+      "popularity": 90,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 19
+    },
+    {
+      "id": "honey-lemon",
+      "name": "Honey Lemon Sparkler",
+      "image": "/images/drinks/drink_lemon.png",
+      "category": "Herbal & Fresh",
+      "badge": "Immunity",
+      "color": "#E09F3E",
+      "accent": "#FFF3B0",
+      "flavorNotes": "Natural forest wild honey infused with fresh zesty lemon juice extract",
+      "pairings": [
+        "Ginger Juice Drop",
+        "Mint",
+        "Soda"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": true,
+      "popularity": 94,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 18
+    },
+    {
+      "id": "jamun",
+      "name": "Black Jamun Shot",
+      "image": "/images/drinks/drink_cola.png",
+      "category": "Desi Masala",
+      "badge": "Gut Health",
+      "color": "#240046",
+      "accent": "#9D4EDD",
+      "flavorNotes": "Astringent Indian blackberry puree with black salt, digestive and deep purple",
+      "pairings": [
+        "Salt Rim",
+        "Lemon Squeeze",
+        "Soda"
+      ],
+      "sugarFreeAvailable": true,
+      "isGutHealth": true,
+      "popularity": 96,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 17
+    },
+    {
+      "id": "ice-gola-special",
+      "name": "Rainbow Ice-Gola Special",
+      "image": "/images/drinks/drink_berry.png",
+      "category": "Ice-Gola Counter",
+      "badge": "New Hit!",
+      "color": "#FF007F",
+      "accent": "#00F5D4",
+      "flavorNotes": "Fine shaved snow gola soaked in 4 signature syrups (Kalakhatta, Rose, Orange & Khus)",
+      "pairings": [
+        "Mawa Cream",
+        "Dry Fruits",
+        "Chatpata Masala"
+      ],
+      "sugarFreeAvailable": false,
+      "isGutHealth": false,
+      "popularity": 100,
+      "priceRegular": 25,
+      "priceLarge": 35,
+      "priceBottle": 65,
+      "active": true,
+      "stockLitres": 28
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust-google-101",
+      "googleId": "google-oauth-109283746",
+      "name": "Rahul Sharma",
+      "email": "rahul.sharma@gmail.com",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "phone": "+91 98220 12345",
+      "role": "customer",
+      "tier": "Gold VIP Member",
+      "createdAt": "2026-08-14T10:30:00Z",
+      "savedDrinks": [
+        {
+          "id": "MIX-CUST-1",
+          "name": "Curacao Masala Sparkler",
+          "base": "Chilled Sparkling Soda",
+          "syrups": [
+            "Blue Curacao",
+            "Royal Jeera Masala"
+          ],
+          "toppings": [
+            "Muddled Mint & Lemon",
+            "Crushed Ice"
+          ],
+          "date": "2026-09-21"
+        }
+      ],
+      "cart": [
+        {
+          "id": "blue-curacao",
+          "name": "Blue Curacao",
+          "size": "Regular (300ml)",
+          "price": 25,
+          "quantity": 2
+        }
+      ],
+      "loyaltyStamps": 7
+    },
+    {
+      "id": "cust-1790100181050",
+      "googleId": "test-google-id",
+      "name": "Rahul Sharma",
+      "email": "rahul@gmail.com",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "phone": "+91 98220 12345",
+      "role": "customer",
+      "tier": "Gold VIP Member",
+      "createdAt": "2026-09-22T18:03:01.050Z",
+      "savedDrinks": [],
+      "cart": [],
+      "loyaltyStamps": 1
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-9821",
+      "tokenNumber": "#SD-TKN-842",
+      "customerId": "cust-google-101",
+      "customerName": "Rahul Sharma",
+      "customerEmail": "rahul.sharma@gmail.com",
+      "outlet": "Pune - Kothrud Outlet",
+      "items": [
+        {
+          "name": "Blue Curacao Sparkler (300ml)",
+          "quantity": 2,
+          "price": 25
+        },
+        {
+          "name": "Royal Jeera Masala (450ml)",
+          "quantity": 1,
+          "price": 35
+        }
+      ],
+      "subtotal": 85,
+      "discount": 12.75,
+      "total": 72.25,
+      "status": "Ready for Pickup",
+      "paymentMethod": "Counter UPI / Cash",
+      "createdAt": "2026-09-22T19:40:00Z"
+    },
+    {
+      "id": "ORD-9820",
+      "tokenNumber": "#SD-TKN-839",
+      "customerId": "cust-google-101",
+      "customerName": "Rahul Sharma",
+      "customerEmail": "rahul.sharma@gmail.com",
+      "outlet": "Pune - Kothrud Outlet",
+      "items": [
+        {
+          "name": "Konkan Kokum Splash (Takeaway 1L)",
+          "quantity": 1,
+          "price": 65
+        }
+      ],
+      "subtotal": 65,
+      "discount": 9.75,
+      "total": 55.25,
+      "status": "Completed",
+      "paymentMethod": "Prepaid Online",
+      "createdAt": "2026-09-20T17:15:00Z"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "LEAD-101",
+      "name": "Amit Deshmukh",
+      "phone": "+91 98230 45678",
+      "email": "amit.deshmukh@gmail.com",
+      "city": "Pune (Baner)",
+      "tier": "Tier 1 Metro",
+      "investmentCapacity": "₹20L - ₹30L",
+      "status": "In Discussion",
+      "date": "2026-09-21",
+      "notes": "Prime commercial corner shop shortlisted. 420 sq ft with water line ready."
+    },
+    {
+      "id": "LEAD-102",
+      "name": "Suresh Patil",
+      "phone": "+91 94220 89123",
+      "email": "suresh.patil@kolhapurbeverages.com",
+      "city": "Kolhapur (Shahupuri)",
+      "tier": "Tier 2 & 3 Cities",
+      "investmentCapacity": "₹15L - ₹20L",
+      "status": "Site Evaluation",
+      "date": "2026-09-20",
+      "notes": "Heritage high footfall market. Wants 8-tap fountain with full syrup line."
+    },
+    {
+      "id": "LEAD-103",
+      "name": "Rajesh Gaikwad",
+      "phone": "+91 99210 33445",
+      "email": "rajesh.g@yahoo.com",
+      "city": "Solapur (Station Road)",
+      "tier": "Tier 2 & 3 Cities",
+      "investmentCapacity": "₹15L - ₹20L",
+      "status": "Agreement Signed",
+      "date": "2026-09-18",
+      "notes": "Franchise agreement finalized. Equipment dispatch scheduled for next week."
+    }
+  ],
+  "announcement": "Summer Fiesta: Buy 2 Signature Sodas, get 1 Bombay Masala Free at all counters!"
+}
