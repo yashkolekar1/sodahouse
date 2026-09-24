@@ -28,3 +28,5 @@ dist-ssr
 # Scratch & test scripts
 *.ps1
 test_render.txt
+
+.vercel
